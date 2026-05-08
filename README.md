@@ -23,6 +23,7 @@ Interactive stock dashboard built with Streamlit, Plotly and yfinance.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 =======
 # 📈 Streamlit Stock Dashboard
 
