@@ -84,19 +84,19 @@ The dashboard includes:
 
 ## Main Dashboard
 
-![Dashboard](main.png)
+![Dashboard](dashboard.png)
 
 ## Pricing Data
 
-![Pricing Data](1.png)
+![Pricing Data](pricing-data.png)
 
 ## Financial Statements
 
-![Financials](2.png)
+![Financials](financials.png)
 
 ## Latest News
 
-![News](3.png)
+![News](news.png)
 
 
 ---
